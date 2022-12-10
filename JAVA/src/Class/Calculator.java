@@ -1,5 +1,6 @@
-public class Calculator {
+package Class;
 
+public class Calculator {
     void powerOn() {
         System.out.println("전원을 켭니다.");
     }
