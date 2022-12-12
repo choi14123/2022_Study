@@ -1,4 +1,4 @@
-package inheritance;
+package Inheritance;
 
 public class DmbCellPhone extends CellPhone {
     int channel;
